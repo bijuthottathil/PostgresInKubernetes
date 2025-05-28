@@ -1,12 +1,12 @@
-# PostgresInKubernetes
-Deploy Postgres in Kubernetes using Helm and access with PGAdmin in local machine
+# Deploy Postgres in Kubernetes using Helm and access with PGAdmin in local machine
+
 
 1. Install Helm in windows by executing "winget install Helm.Helm" from powershell prompt
 
- D:\Streamlit> winget install Helm.Helm  
-2. Make sure that Docker for Windows is up and running
-3. Execute Minikube start
-4. Execute Minikube dashboard ![image](https://github.com/user-attachments/assets/cb5c57e2-97ea-4953-a497-c6a1856e2063)
+ D:\Streamlit> winget install Helm.Helm    
+2. Make sure that Docker for Windows is up and running  
+3. Execute Minikube start  from command prompt
+4. Execute Minikube dashboard  from command prompt  ![image](https://github.com/user-attachments/assets/cb5c57e2-97ea-4953-a497-c6a1856e2063)  
 
 
 5. Run below command from command prompt  
