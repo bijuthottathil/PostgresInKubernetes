@@ -1,5 +1,6 @@
-# Deploy Postgres in Kubernetes using Helm and access with PGAdmin in local machine
+# Deploy Postgres in Kubernetes using Helm and access with PgAdmin in local machine
 
+![image](https://github.com/user-attachments/assets/1a7cb5c6-ce0b-429b-b3f5-e2896f5c9d0d)
 
 1. Install Helm in windows by executing "winget install Helm.Helm" from powershell prompt
 
